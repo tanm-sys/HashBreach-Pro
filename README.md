@@ -1,5 +1,3 @@
-**Repository Name:** **HashBreach-Pro**  
-*(Advanced Password Recovery Toolkit for Security Professionals)*  
 
 ---
 
