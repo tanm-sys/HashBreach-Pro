@@ -1,0 +1,14 @@
+# requirements.txt for HashBreach Pro
+
+bcrypt==4.0.1          # Secure password hashing (for bcrypt support)
+tqdm==4.66.1           # Progress bar visualization
+SQLAlchemy==2.0.23     # Database ORM for rainbow tables
+click==8.1.7           # CLI command composition
+python-dotenv==1.0.0   # Environment management
+psutil==5.9.6          # System resource monitoring
+cryptography==41.0.7   # Advanced encryption utilities
+
+# Development extras (not required for runtime)
+pytest==8.0.0          # Testing framework
+mypy==1.8.0            # Static type checking
+flake8==7.0.0          # Code linting
