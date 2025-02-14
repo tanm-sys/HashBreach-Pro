@@ -6,7 +6,7 @@ SQLAlchemy==2.0.23     # Database ORM for rainbow tables
 click==8.1.7           # CLI command composition
 python-dotenv==1.0.0   # Environment management
 psutil==5.9.6          # System resource monitoring
-cryptography==43.0.1   # Advanced encryption utilities
+cryptography==44.0.1   # Advanced encryption utilities
 
 # Development extras (not required for runtime)
 pytest==8.0.0          # Testing framework
